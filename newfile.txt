@@ -1,0 +1,3 @@
+Newton's First Law (Inertia): An object at rest stays at rest, and an object in motion stays in motion unless acted upon by a net external force.
+Second Law (F=ma): The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass.
+Welcome to summer
